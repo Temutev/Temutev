@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Temutev
 - 👀 I’m interested in Data Science ,Machine Learning , Artificial Intelligence ,Big Data,web development
-- 🌱 I’m currently learning OCR ,Natural Language Processing and Data in FMCG
+- 🌱 I’m currently learning OCR ,Natural Language Processing and Time Series  in FMCG
 - 💞️ I’m looking to collaborate on data related projects, machine learning tasks and web development
 - 📫 How to reach me tevintemu@gmail.com
 
