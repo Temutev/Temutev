@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Temutev
-- 👀 I’m interested in Data Science ,Machine Learning , Artificial Intelligence ,Big Data,web development
-- 🌱 I’m currently learning OCR ,Natural Language Processing and Time Series  in FMCG
-- 💞️ I’m looking to collaborate on data related projects, machine learning tasks and web development
-- 📫 How to reach me tevintemu@gmail.com
-
-<!---
-Temutev/Temutev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, Big Data, and Web Development.
+- 🌱 I’m currently learning OCR, Natural Language Processing, and Time Series in FMCG.
+- 💼 I’m working with Ecoscope to create workflows that help wildlife conservation organizations gain better insights into wildlife management.
+- 💞️ I’m looking to collaborate on data-related projects, machine learning tasks, and web development.
+- 🧠 I’m passionate about anything related to data.
+- 📫 How to reach me: tevintemu@gmail.com
