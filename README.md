@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Temutev
-- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, Big Data, and Web Development.
-- 🌱 I’m currently learning OCR, Natural Language Processing, and Time Series in FMCG.
-- 💼 I’m working with Ecoscope to create workflows that help wildlife conservation organizations gain better insights into wildlife management.
-- 💞️ I’m looking to collaborate on data-related projects, machine learning tasks, and web development.
-- 🧠 I’m passionate about anything related to data.
-- 📫 How to reach me: tevintemu@gmail.com
+- 👋 Hi, I’m @Temutev  
+- 🐾 I work with **Wildlife Dynamics** to develop data-powered solutions for wildlife conservation and ecosystem monitoring.  
+- 🌍 I specialize in **geospatial analytics**, creating workflows that track animal movement, identify predation zones, and analyze habitat usage from satellite and collar data.  
+- 🤝 I'm open to collaborations in **ecological data science**, **conservation tech**, and **AI for wildlife monitoring**.  
+- 📫 You can reach me at tevintemu@gmail.com
